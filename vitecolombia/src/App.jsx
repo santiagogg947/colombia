@@ -20,7 +20,7 @@ export default function App() {
   return (
     <main className="container">
       <header>
-        <h1>Explora Colombia 🇨🇴</h1>
+        <h1>Explora Colombia</h1>
         <p>Filtra departamentos y despliega sus ciudades y datos clave.</p>
       </header>
 
